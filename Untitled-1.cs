@@ -1,1 +1,7 @@
-string c = 'hello world again';
+public class testclass
+{
+    private string c = "hello world";
+
+
+}
+
